@@ -1,0 +1,7 @@
+venv*/
+__pycache__/
+.ipynb_checkpoints/
+*.keras
+*.h5
+tensorflow_datasets/
+.vscode/
